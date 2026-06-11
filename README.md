@@ -2,6 +2,6 @@
 ## My Projects
 ### Project 1
 
-![histogram](/images/histogram-example.png)
+![histogram](images/histogram-example.png)
 
 ### Project 2
